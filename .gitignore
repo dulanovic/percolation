@@ -1,0 +1,5 @@
+_data/InteractivePercolationVisualizer.java
+_data/PercolationVisualizer.java
+build/*
+out/*
+test/*
